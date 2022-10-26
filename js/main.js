@@ -1,4 +1,4 @@
-let prenda = prompt("Elija su prenda por su numero \n 1) remera \n 2) campera \n 3) zapatillas \n 4) medias \n 5) gorras");
+let prenda = prompt("Elija su prenda por su numero \n 1) remera $2000 \n 2) campera $4000 \n 3) zapatillas $3500 \n 4) medias $500 \n 5) gorras $1000");
 
 let presupuesto = parseInt(prompt("ingrese cuannto dinero tiene"));
 const remera = 2000;
